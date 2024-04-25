@@ -1,2 +1,2 @@
 # PPSurvival
-A predater and prey survival simulation in Unity, based on evolution.
+A predator and prey survival simulation in Unity, based on evolution.
